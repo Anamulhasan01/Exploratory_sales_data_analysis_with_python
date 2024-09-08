@@ -1,1 +1,1 @@
-Analyzed seasonal sales diwali sales data with the clients age,state and purchasing catagory
+Analyzed seasonal sales diwali sales data with the clients age,state and purchasing catagory by using Python
